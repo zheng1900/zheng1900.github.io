@@ -19,4 +19,4 @@ tags:								#标签
 
 哈哈哈哈哈哈
 
-https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
+![1](https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n)
