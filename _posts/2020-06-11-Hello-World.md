@@ -18,3 +18,5 @@ tags:								#标签
 虽然没有高大上的服务器，但是靠着Github这棵大树，以及无数前辈的模板和经验，终于整出来一点了
 
 哈哈哈哈哈哈
+
+https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
