@@ -19,4 +19,10 @@ tags:								#标签
 
 哈哈哈哈哈哈
 
-![1](https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n)
+下面这行代码是测试latex公式在web端的显示
+
+svg
+![1](https://latex.codecogs.com/svg.latex?\\sum_{i=0}^n)
+
+gif
+![2](https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n)
